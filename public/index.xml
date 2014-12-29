@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Recent Content on Yosssi&#39;s Blog </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/index.xml/</link>
+    <language>en-us</language>
+    
+    
+    <updated>Mon, 29 Dec 2014 21:03:02 JST</updated>
+    
+    <item>
+      <title>gmq</title>
+      <link>http://localhost:1313/gmq/</link>
+      <pubDate>Mon, 29 Dec 2014 21:03:02 JST</pubDate>
+      
+      <guid>http://localhost:1313/gmq/</guid>
+      <description>
+
+&lt;h1 id=&#34;toc_0&#34;&gt;あああab&lt;/h1&gt;
+
+&lt;h2 id=&#34;toc_1&#34;&gt;いいい&lt;/h2&gt;
+
+&lt;p&gt;うううう&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
